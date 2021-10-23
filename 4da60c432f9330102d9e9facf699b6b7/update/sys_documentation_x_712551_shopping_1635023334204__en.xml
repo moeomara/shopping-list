@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Shopping 1635023334204" language="en" table="x_712551_shopping_1635023334204">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Shopping 1635023334204</label>
+            <language>en</language>
+            <name>x_712551_shopping_1635023334204</name>
+            <plural>Shopping 1635023334204s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-23 21:08:55</sys_created_on>
+            <sys_id>f0274c832f9330102d9e9facf699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Shopping 1635023334204</sys_name>
+            <sys_package display_value="Shopping List" source="x_712551_shopping">4da60c432f9330102d9e9facf699b6b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">4da60c432f9330102d9e9facf699b6b7</sys_scope>
+            <sys_update_name>sys_documentation_x_712551_shopping_1635023334204__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-23 21:08:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
